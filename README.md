@@ -1,6 +1,28 @@
 # Compound `Data Type in python List
 
 ## List
- py ```
- student_grades = [9,1,8.8,7.5]
- ````
+## Dictionaries
+## Tuples
+--
+ # Python DataTypes
+
+ ## Numeric
+  - integer
+
+
+
+
+### Subestting List
+
+[1,2,3,4,4]
+
+fam[1]
+
+end
+fam[-1]
+
+### List slicing 
+
+fam[3:5]
+output : 
+   [4,4]
